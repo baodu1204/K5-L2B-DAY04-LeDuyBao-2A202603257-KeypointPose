@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603257",
+ "ten": "LeDuyBao",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "2A202603257",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000156069.jpg",
+  "000000225138.jpg",
+  "000000241837.jpg",
+  "000000292999.jpg",
+  "000000433787.jpg",
+  "000000030960.jpg",
+  "000000179201.jpg",
+  "000000189365.jpg",
+  "000000043500.jpg",
+  "000000054909.jpg",
+  "000000323705.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_300399.jpg",
+  "face_469647.jpg",
+  "face_476363.jpg",
+  "face_505385.jpg",
+  "face_345145.jpg",
+  "face_219250.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 6,
+   "task_name": "persons-LeDuyBao"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 7,
+   "task_name": "faces-LeDuyBao"
+  },
+  "persons-extra": {
+   "task_id": 9,
+   "job_id": 8,
+   "task_name": "persons-extra-LeDuyBao"
+  },
+  "faces-extra": {
+   "task_id": 10,
+   "job_id": 9,
+   "task_name": "faces-extra-LeDuyBao"
+  }
+ },
+ "persons_extra": [
+  "000000104800.jpg",
+  "000000254060.jpg",
+  "000000357549.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_317330.jpg",
+  "face_379585.jpg",
+  "face_45276.jpg",
+  "face_68290.jpg"
+ ]
+}
